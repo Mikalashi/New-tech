@@ -36,9 +36,9 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	},
 {
-		"name": "Aliens",
+		"name": "Sumeria",
 		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"adjective": ["Sumeria"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
